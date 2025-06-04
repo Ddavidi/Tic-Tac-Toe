@@ -2,6 +2,8 @@
 
 Este é um projeto simples de Jogo da Velha (Tic-Tac-Toe) desenvolvido com **React**. A aplicação permite que dois jogadores disputem partidas alternadamente, com destaque para o recurso de **histórico de jogadas**, onde é possível voltar a movimentos anteriores.
 
+## Visite o site em: https://tic-tac-toe-two-kappa-25.vercel.app/
+
 ## 🚀 Funcionalidades
 
 - Interface interativa e responsiva.
